@@ -1,0 +1,227 @@
+html{
+    scroll-behavior: smooth;
+}
+
+.hbd{
+    font-family: Satisfy;
+    font-size: 4rem;
+}
+
+.pad1{
+    padding: 0.8% 2% ;
+}
+
+.pad2{
+    padding: 1% 2%;
+}
+
+.border1{
+    padding: 1px;
+    border: 2px solid black;
+    background-color: white;
+    border-radius: 2%;
+}
+
+.navigation{
+    padding: 2% 4%;
+    background-color: #ccf1f5;
+}
+
+/*     F  R  O  N  T     D  I  V   */
+.front1{
+    width: 100%;
+    height: 1000px;
+    background-color: #cbf1f5;
+}
+
+.images1{
+position: relative;
+top: -13%;
+right: -70%;
+width: 30%;
+}
+
+.fimg1{
+    width: 78%;
+}
+.fimg2{
+    position: absolute;
+    top: 83%;
+    right: -2%;
+    width: 54%;
+    float: right;
+}
+
+.fimg6{
+    position: absolute;
+    top: 165%;
+    left: -10%;
+    width: 100%;
+    transform: rotate(-90deg);
+}
+
+.images2{
+position: relative;
+top: -47%;
+width: 30%;
+left: 1%;
+}
+
+.fimg3{
+width: 72%;
+}
+.fimg4{
+    position: absolute;
+    width: 49%;
+    float: right;
+    top: 87%;
+    right: -4%;
+}
+
+.fimg5{
+    position: absolute;
+    top: 160%;
+    left: 10%;
+    width: 50%;
+    rotation: 90deg;
+}
+/*-------- T E X T ----------*/
+.hbdline{
+    position: relative;
+    top: 3%;
+    left: 7%;
+}
+.dopeline{
+    font-size: 3.2rem;
+    position: relative;
+    top: -28%;
+    right: -29%;
+}
+
+.toline{
+    position: relative;
+    top: -49%;
+    right: -34%;
+    font-size: 2.5rem;
+}
+
+/*      F  R  O  N  T     2   */
+
+.start2{
+    margin-top: 1%;
+    font-size: 1.5rem;
+    text-align: center;
+}
+.front2{
+    font-size: 1.5rem;
+}
+
+.wishes{
+    padding: 3% 4%;
+}
+
+.wish{
+    margin-top: 2%;
+    padding: 2% 1%;
+    width: 100%;
+    float: left;
+    background-color: #ccf1f5;
+    border-radius: 22px;
+    text-align: center;
+}
+
+.right{
+    padding: -1% 1%;
+    width: 20%;
+    float: right;
+    text-align: center;
+}
+
+.left{
+    padding: -1% 1%;
+    width: 20%;
+    float: left;
+    text-align: center;
+}
+
+.wish1{
+    margin-top: 3%;
+    padding: 2% 3%;
+}
+.wishimg1{
+    width: 60%;
+    border-radius: 100%;
+
+}
+
+.mausi{
+    margin-top: 51%;
+    width: 60%;
+    border-radius: 100%;
+}
+
+
+/*     S  P  E  A  C  I  A  L    */
+.special{
+    float: left;
+    margin-top: 2%;
+    padding: 2% 0 0 4% ;
+}
+
+.images{
+    float: right;
+    padding: 3% 4%;
+    width: 40%;
+    text-align: center;
+}
+
+.spimg{
+    width: 70%;
+}
+
+.spimg1{
+    position: relative;
+    width: 100%;
+    /*height: 380px;*/
+}
+.spimg2{
+    position: relative;
+    bottom: 20px;
+    left: 20%;
+}
+.spimg3{
+    position: relative;
+    bottom: 40px;
+    left : -22%
+}
+.spimg4{
+    position: relative;
+    bottom: 50px;
+    left: 20%;
+}
+
+.letter{
+    float: left;
+    background-color: #ccf1f5;
+}
+.spara{
+    font-family: Satisfy;
+    margin-top: 3
+    %;
+    font-size: 1.5rem;
+    width: 60%;
+    padding: 1% 10% 0;
+    border-radius: 25px;
+}
+
+.outer-para{
+    padding: 2% 3%;
+}
+
+.sright{
+    float: right;
+}
+
+.sleft{
+    float: left;
+}
